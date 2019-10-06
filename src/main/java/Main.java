@@ -19,5 +19,6 @@ public class Main {
         cheeseburger.protein = 12.2;
         cheeseburger.fat = 8.6;
         cheeseburger.carbohydrates = 26.6;
+
     }
 }
