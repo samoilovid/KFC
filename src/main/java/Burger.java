@@ -5,8 +5,8 @@ public class Burger {
     int price;
     int grams;
     int kcal;
-    boolean inBasket;
     double protein;
     double fat;
     double carbohydrates;
+    boolean inBasket;
 }
