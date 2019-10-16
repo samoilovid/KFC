@@ -9,4 +9,5 @@ public class Burger {
     double fat;
     double carbohydrates;
     boolean inBasket;
+
 }
