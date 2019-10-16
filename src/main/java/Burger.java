@@ -1,6 +1,6 @@
 public class Burger {
-    String name;
     long id;
+    String name;
     String avatar;
     int price;
     int grams;
